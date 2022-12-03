@@ -5,4 +5,4 @@
 + **_Cloud Security:
 + **_Application Security:
 + **_Critical Infrastructure Security:
-+ **_IoT Security: Iot or Internet of Things security concerns the protection of Iot devices and their associated networks. The Internet of Things is 
++ **_IoT Security: Iot or Internet of Things security concerns the protection of Iot devices and their associated networks. The Internet of Things is _**
