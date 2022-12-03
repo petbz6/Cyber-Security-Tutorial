@@ -1,4 +1,3 @@
 # **_Types of Cyber Security_**
-<br>
-**_<p>Cyber Security can be categorized into different types, each focusing on a different area of security.</p>_**
-*__<p>Here are some types of cyber security and what their functions are: </p>_**
+**_ <p>Cyber Security can be categorized into different types, each focusing on a different area of security.</p>_**
+**_<p>Here are some types of cyber security and what their functions are: </p>_**
