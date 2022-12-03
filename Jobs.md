@@ -9,5 +9,5 @@
 + IBM: $134.155
 + Intel: $169,481
 + Dell: $147.485
-<br>
-*<p>Note that the above salary amounts are estimates and are only meant to demonstrate the range of salaries for cyber security jobs across different companies.</p>*
+
+**_<p>Note that the above salary amounts are estimates and are only meant to demonstrate the range of salaries for cyber security jobs across different companies.</p>_**
