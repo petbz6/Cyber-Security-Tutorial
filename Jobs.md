@@ -10,4 +10,4 @@
 + **_Intel: $169,481_**
 + **_Dell: $147.485_**
 
-*<p>(Note that the salary amounts are estimates and are only meant to demonstrate the range of salaries for cyber security jobs across different companies.)</p>*
+**_<p>(Note that the salary amounts are estimates and are only meant to demonstrate the range of salaries for cyber security jobs across different companies.)</p>_**
