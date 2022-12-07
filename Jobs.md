@@ -15,6 +15,7 @@
 **_Links to other pages:_**
 
 [<em>Homepage</em>](ReadMe.md)\
+[<em>What is Cyber Security?</em>](WhatIsCyberSecurity.md)\
 [<em>Why is Cyber Security Important? </em>](WhyIsItImportant.md)\
-[<em>Types of Cyber Secrurity</em>](TypesOfCyberSecurity.md)\
-[<em>What is Cyber Security?</em>](WhatIsCyberSecurity.md)
+[<em>Types of Cyber Secrurity</em>](TypesOfCyberSecurity.md)
+
