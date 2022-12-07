@@ -12,7 +12,7 @@
 
 **_<p>(Note that the salary amounts are estimates and are purely meant to demonstrate the range of salaries for cyber security jobs across different companies.)</p>_**
 
-**_Links to other pages: _**
+**_Links to other pages:_**
 
 [<em>Homepage</em>](ReadMe.md)\
 [<em>Why is Cyber Security Important? </em>](WhyIsItImportant.md)\
