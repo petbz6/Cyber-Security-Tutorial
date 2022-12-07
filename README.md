@@ -5,6 +5,6 @@
 
 **_Links to other pages:_**
 
-[<em>What is Cyber Security?</em>](What is Cyber Security.md)\
+[<em>What is Cyber Security?</em>](WhatIsCyberSecurity.md)\
 [<em>My Top 5 Movies </em>](List.md)\
 [<em>Picture of my Dog</em>](Picture.md)
