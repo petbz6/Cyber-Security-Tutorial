@@ -7,5 +7,5 @@
 
 [<em>What is Cyber Security?</em>](WhatIsCyberSecurity.md)\
 [<em>Why is Cyber Security Important? </em>](WhyIsItImportant.md)\
-[<em>Picture of my Dog</em>](Picture.md)\
+[<em>Types of Cyber Secrurity</em>](TypesOfCyberSecurity.md)\
 [<em>Jobs in Cyber Security</em>](Jobs.md)
